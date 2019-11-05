@@ -1,57 +1,31 @@
 # Schedule
 
-## [2min] Opening Remarks
+## Opening Remarks
 
-Arm-based processors have gained substantial traction in the HPC community. Sandia’s “Astra” is #156 on the Top500, and projects like the Japanese Post-K “Fugaku”, European Mont-Blanc, U.S. DOE Vanguard, and UK GW4/EPSRC are strong proof points. HPC system integrators like Atos, Cray, Gigabyte, and HPE have Arm commercial offerings, but will Arm become an HPC leader? This BoF brings together experts and luminaries to share their experiences with Arm, discuss the remaining technical and ecosystem challenges, consider the role of codesign in HPC, discuss progress, and lay out a vision for the future state of Arm in the HPC community.
+Arm's Scalable Vector Extension (SVE) has arrived, but what does SVE mean for typical high performance computing workloads and how do you use it? This hands-on, non-NDA event will present SVE and show how common HPC codes can be recompiled to take advantage of large vector lengths without code modifications.
 
-## [25min] Lightning Talks
+## Presentations
 
-120-second talks from Arm's partners in SoCs, interconnects, intergrators, operating systems, storage, and ecosystem.
+Short presentations from community members, SVE tool developers, application teams, and hardware developers to introduce core concepts and lay the roadmap for future SVE applications.
 
-  Partner | Presenter | Materials
-  :-----: | :-------: | :-------:
-  Altair | _Eric Lequiniou_
-  ANSYS | _Bharat Agrawal_
-  Atos | _Said Derradji_
-  Cray | _Dan Ernst_
-  Fujitsu | _Takumi Maruyama_
-  HPE | _Andy Warner_
-  Linaro | _Elsie Wahlig_
-  RIKEN | _Mitsuhisa Sato_
-  SUSE | _Jay Kruemke_
-  NVIDIA | _CJ Newburn_
-  Marvell | _Larry Wikelius_
-  Whamcloud | _Carlos Thomaz_
+  Presenter | Materials
+  :-------: | :-------:
+  John Linford | 
+  Dani/Roxana | 
+  Yuetsu Kodama |
 
-## [5min] Live Poll
+## Hands-on with SVE
 
-Audience feedback to drive the conversation and seed questions for the panel.
+The entirely hands-on afternoon session will introduce the Arm's tools for SVE developers and show how to generate SVE-enabled binaries targeting popular vector lengths. The session will include contributions from people who are running and porting applications for SVE.
 
-   QR Code | Link
-   ------- | ----
-   <img src="QR.png" alt="QR Code" width="200"/> | Use code **97 34 26** at [menti.com](http://www.menti.com), or [click here to participate in the poll](https://www.menti.com/ee43i2m7pr).
+ * Materials: TBD
 
-  
-## [55min] Panel Discussion
+# Registration
 
-Interactive discussion with leaders in the Arm HPC space.
+ * Registration is currently open!  [Register now](https://pages.arm.com/sve-hackathon-sc19) to guarantee your seat.
+ * https://pages.arm.com/sve-hackathon-sc19
 
-  Name | Affiliations | Materials
-  :--: | :----------: | :-------:
-  Rui Oliveira | _University of Minho, INESC TEC_ | 
-  Simon McIntosh-Smith | _University of Bristol, GW4_ | 
-  Satoshi Matsuoka | _RIKEN Center for Computational Science_ | 
-  Andrew Younge | _Sandia National Laboratories_ | 
-  Dirk Pleiter | _Forschungszentrum Juelich_ | 
-  Keith Obenschain | _U.S. Naval Research Laboratory_ | 
-  Guillaume Colin de Verdière | _CEA_ | 
+# Contact
 
-# Session Leaders
-
- * John Linford, _Arm_, <john.linford@arm.com>
- * Andrew Younge, _Sandia National Laboratories_
- * Oscar Hernandez, _Oak Ridge National Laboratory_
- * Mitsuhisa Sato, _RIKEN Center for Computational Science_
- * Simon McIntosh-Smith, _University of Bristol, GW4_
- * Keith Obenschain, _US Naval Research Laboratory_
+ * John Linford <john.linford@arm.com>
 
