@@ -11,7 +11,7 @@ Short presentations from community members, SVE tool developers, application tea
   15 | Welcome and Introduction to Arm in HPC | John Linford | 
   45 | SVE Fundamentals | John Linford | 
   20 | SVE Code Generation | John Linford |
-  20 | Performance Investigation with Arm Instruction Emulator (ArmIE) | TBD
+  20 | Performance Investigation with ArmIE | TBD
   20 | SVE Simulation with gem5 | Yuetsu Kodama
 
 ## 11:00am – Hands-on with SVE
