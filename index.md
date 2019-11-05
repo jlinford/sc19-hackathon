@@ -22,8 +22,8 @@ The entirely hands-on afternoon session will introduce the Arm's tools for SVE d
 
 # Registration
 
- * Registration is currently open!  [Register now](https://pages.arm.com/sve-hackathon-sc19) to guarantee your seat.
- * https://pages.arm.com/sve-hackathon-sc19
+ * [Register now](https://pages.arm.com/sve-hackathon-sc19) to guarantee your seat.
+ * [https://pages.arm.com/sve-hackathon-sc19](https://pages.arm.com/sve-hackathon-sc19)
 
 # Contact
 
