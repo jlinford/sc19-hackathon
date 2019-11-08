@@ -8,11 +8,11 @@ Short presentations from community members, SVE tool developers, application tea
 
   Minutes | Title | Presenter | Materials
   :-----: | :---: | :-------: | :-------:
-  15 | Welcome and Introduction to Arm in HPC | John Linford | 
-  45 | SVE Fundamentals | John Linford | 
-  20 | SVE Code Generation | John Linford |
-  20 | Performance Investigation with ArmIE | TBD
-  20 | SVE Simulation with gem5 | Yuetsu Kodama
+  10 | Welcome and Introduction to Arm in HPC | John Linford | 
+  20 | SVE Core Concepts and Tools | John Linford | 
+  25 | Performance Investigation with ArmIE | Roxana Rusitoru
+  25 | SVE Simulation with gem5 | Yuetsu Kodama
+  40 | SVE Programming Deep Dive | John Linford
 
 ## 11:00am – Hands-on with SVE
 
