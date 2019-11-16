@@ -6,12 +6,12 @@ Arm's Scalable Vector Extension (SVE) has arrived, but what does SVE mean for ty
 
 Short presentations from community members, SVE tool developers, application teams, and hardware developers to introduce core concepts and lay the roadmap for future SVE applications.
 
-  Minutes | Title | Presenter | Materials
-  :-----: | :---: | :-------: | :-------:
-  10 | Welcome and Introduction to Arm in HPC | John Linford | 
-  20 | SVE Core Concepts and Tools | John Linford | 
+  Minutes | Materials | Presenter 
+  :-----: | :-------: | :-------: 
+  10 | Welcome and Introduction to Arm in HPC | John Linford
+  20 | SVE Core Concepts and Tools | John Linford
   25 | Performance Investigation with ArmIE | Roxana Rusitoru
-  25 | SVE Simulation with gem5 | Yuetsu Kodama
+  25 | [RIKEN Fugaku Processor Simulator](https://github.com/jlinford/sc19-hackathon/raw/master/RekenSimulatorUpdates_Nov2019.pdf) | Yuetsu Kodama 
   40 | SVE Programming Deep Dive | John Linford
 
 ## 11:00am – Hands-on with SVE
