@@ -8,17 +8,18 @@ Short presentations from community members, SVE tool developers, application tea
 
   Minutes | Materials | Presenter 
   :-----: | :-------: | :-------: 
-  10 | Welcome and Overview of Arm in HPC | John Linford
-  20 | Introduction to Programming for Arm SVE | John Linford
-  40 | SVE Programming Deep Dive | John Linford
+  5 | Welcome and Overview of Arm in HPC | John Linford
+  25 | Introduction to Programming for Arm SVE | John Linford
   25 | Performance Investigation with ArmIE | Roxana Rusitoru
   25 | [RIKEN Fugaku Processor Simulator](https://github.com/jlinford/sc19-hackathon/raw/master/RekenSimulatorUpdates_Nov2019.pdf) | Yuetsu Kodama 
+  30 | A Closer Look at Arm SVE | John Linford
+   5 | Training Cluster First-touch | Everyone!
 
 ## 11:00am – Hands-on with SVE
 
 The entirely hands-on afternoon session will introduce the Arm's tools for SVE developers and show how to generate SVE-enabled binaries targeting popular vector lengths. The session will include contributions from people who are running and porting applications for SVE.
 
- * Materials: TBD
+ * Materials: https://gitlab.com/arm-hpc/training/arm-sve-tools/
 
 # Registration
 
@@ -28,4 +29,8 @@ The entirely hands-on afternoon session will introduce the Arm's tools for SVE d
 # Contact
 
  * John Linford <john.linford@arm.com>
+
+# Acknowledgements
+
+Many thanks to all our partners and teams within Arm who contributed content including, but not limited to, Dani Ruiz-Munoz, Miguel Tairum-Cruz, Olly Perks, Francesco Petrogalli, Alex Rico, Roxana Rusitoru, and Jelena Milanovic.
 
