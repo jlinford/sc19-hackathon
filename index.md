@@ -8,11 +8,11 @@ Short presentations from community members, SVE tool developers, application tea
 
   Minutes | Materials | Presenter 
   :-----: | :-------: | :-------: 
-  10 | Welcome and Introduction to Arm in HPC | John Linford
-  20 | SVE Core Concepts and Tools | John Linford
+  10 | Welcome and Overview of Arm in HPC | John Linford
+  20 | Introduction to Programming for Arm SVE | John Linford
+  40 | SVE Programming Deep Dive | John Linford
   25 | Performance Investigation with ArmIE | Roxana Rusitoru
   25 | [RIKEN Fugaku Processor Simulator](https://github.com/jlinford/sc19-hackathon/raw/master/RekenSimulatorUpdates_Nov2019.pdf) | Yuetsu Kodama 
-  40 | SVE Programming Deep Dive | John Linford
 
 ## 11:00am – Hands-on with SVE
 
