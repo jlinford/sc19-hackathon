@@ -20,6 +20,7 @@ Short presentations from community members, SVE tool developers, application tea
 The entirely hands-on afternoon session will introduce the Arm's tools for SVE developers and show how to generate SVE-enabled binaries targeting popular vector lengths. The session will include contributions from people who are running and porting applications for SVE.
 
  * Training Cluster: `ssh student@cluster.arm-hpc.org`
+   * Password: `Tr@ining!`
 
  * Materials: https://gitlab.com/arm-hpc/training/arm-sve-tools/
 
