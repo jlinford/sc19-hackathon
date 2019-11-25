@@ -8,11 +8,11 @@ Short presentations from community members, SVE tool developers, application tea
 
   Minutes | Materials | Presenter 
   :-----: | :-------: | :-------: 
-  5 | [Welcome and Overview of Arm in HPC](https://gitlab.com/arm-hpc/training/arm-sve-tools/raw/master/Slides/1%20-%20Overview%20of%20Arm%20in%20HPC.pptx?inline=false) | John Linford
-  25 | [Introduction to Programming for Arm SVE](https://gitlab.com/arm-hpc/training/arm-sve-tools/raw/master/Slides/2%20-%20Intro%20to%20Programming%20SVE.pptx?inline=false) | John Linford
+  5 | [Welcome and Overview of Arm in HPC](https://github.com/jlinford/sc19-hackathon/raw/master/slides/1%20-%20Overview%20of%20Arm%20in%20HPC.pdf) | John Linford
+  25 | [Introduction to Programming for Arm SVE](https://github.com/jlinford/sc19-hackathon/raw/master/slides/2%20-%20Intro%20to%20Programming%20SVE.pdf) | John Linford
   25 | [Timing-agnostic SVE optimization with ArmIE](https://github.com/jlinford/sc19-hackathon/raw/master/slides/Asvie_Rusitoru.pdf) | Roxana Rusitoru
   25 | [RIKEN Fugaku Processor Simulator](https://github.com/jlinford/sc19-hackathon/raw/master/slides/RekenSimulatorUpdates_Nov2019.pdf) | Yuetsu Kodama 
-  30 | [A Closer Look at Arm SVE](https://gitlab.com/arm-hpc/training/arm-sve-tools/raw/master/Slides/3%20-%20SVE%20Deep%20Dive.pptx?inline=false) | John Linford
+  30 | [A Closer Look at Arm SVE](https://github.com/jlinford/sc19-hackathon/raw/master/slides/3%20-%20SVE%20Deep%20Dive.pdf) | John Linford
    5 | Training Cluster First-touch | Everyone!
 
 ## 11:00am – Hands-on with SVE
